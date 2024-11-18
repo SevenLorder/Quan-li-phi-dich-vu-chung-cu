@@ -1,0 +1,2 @@
+Phi moi truong,15000,1,0,0,0
+Phi quan ly,10000,1,0,0,0
